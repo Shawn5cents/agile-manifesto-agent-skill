@@ -1,0 +1,12 @@
+interface:
+  display_name: Agile Manifesto
+  short_description: Apply Agile values to practical software work
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,1 @@
+When a task involves software planning, implementation sequencing, debugging/rescue, product prioritization, team process, retrospectives, or Agile workflow review, read `/SKILL.md` and apply it as the canonical project instruction. Do not invent a separate Agile methodology for this repository.
